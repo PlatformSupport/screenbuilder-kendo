@@ -3,7 +3,7 @@
 (function() {
     app.data.defaultProvider = new Everlive({
         offlineStorage: true,
-        apiKey: '4PHpzeLSmy17yrCd',
+        apiKey: 'YOUR_API_KEY',
         url: '//platform.telerik.com/bs-api/v1/',
         scheme: 'https'
     });
